@@ -1,0 +1,6 @@
+{
+  "name": "Waste Not, Want Not — Food Waste Control & Cost-Saving System",
+  "description": "Smart food waste management and cost-saving control system for hotel kitchens. Track waste records, manage inventory, calculate costs in INR, and analyze savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
